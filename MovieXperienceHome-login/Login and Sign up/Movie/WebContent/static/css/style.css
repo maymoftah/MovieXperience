@@ -1,0 +1,18 @@
+# Empty CSS file for your own CSS
+
+body {
+	color: white;
+   background-image: url("http://turbo.designwoop.com/uploads/2012/03/14_free_subtle_textures_psd_carbon_fiber_pattern_background.jpg")
+}
+
+.container-fluid
+{
+	background-color: beige;
+	background-image: url("http://turbo.designwoop.com/uploads/2012/03/14_free_subtle_textures_psd_carbon_fiber_pattern_background.jpg")
+}
+
+div
+{
+	color: white;
+	background-image: url("http://cdn.playbuzz.com/cdn/d3d90385-415f-4772-8f51-710d39163451/3c344f78-8407-4bfd-8514-fab16c1dfa56.jpg")
+}
